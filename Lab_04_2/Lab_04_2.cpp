@@ -30,7 +30,8 @@ int main()
 		A = 8.1 + pow(x, 3);
 		if (x < -3.5)
 			B = 1 - pow(x, -5);
-		else if (x >= atan(2 * x) - log10(x / 2));
+		else if (x >= 1)
+			B = atan(2 * x) - log10(x / 2);
 		else
 			B = 1 / (tan(abs(x + 1)));
 		y = A + B;
