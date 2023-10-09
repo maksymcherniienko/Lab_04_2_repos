@@ -7,7 +7,6 @@
 #include <iostream>
 #include <iomanip>
 #include <cmath>
-#include "Lab_04_2.h"
 
 using namespace std;
 
